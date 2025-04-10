@@ -2,6 +2,12 @@
 
 A graphical user interface (UI) application for creating, configuring, visualizing, and solving Vehicle Routing Problems (VRP).
 
+## Screenshot
+
+![VRP Scenario Builder Interface](./UI_Screenshot.png)
+
+*A sample VRP scenario with multiple nodes, constraints, and solution routes*
+
 ## Features
 
 - Visual 2D canvas for adding and managing nodes
